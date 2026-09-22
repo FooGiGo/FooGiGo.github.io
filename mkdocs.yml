@@ -1,0 +1,7 @@
+site_name: FooGiGo
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
