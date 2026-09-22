@@ -5,4 +5,6 @@ theme:
 
 nav:
   - Home: index.md
-  - About: about.md
+  - About Me: about.md
+  - Robotics: robotics.md
+  - Skills: skills.md
